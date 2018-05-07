@@ -12,3 +12,5 @@ def my_square2(x):
 
 print square(102)
 print( my_square2(2)))
+
+print ""
